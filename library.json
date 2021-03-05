@@ -1,0 +1,20 @@
+{
+    "name": "CFPushButton",
+    "keywords": "cf, arduino, cpp, pushbutton, push, button",
+    "description": "A library for Arduino that helps interface for Push Buttons.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/caiofrota/cf-arduino-lib-pushbutton"
+    },
+    "authors": [
+        {
+            "name": "caiofrota",
+            "url": "https://github.com/caiofrota"
+        }
+    ],
+    "contributors": [
+    ],
+    "version": "1.0.0",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino"
+}

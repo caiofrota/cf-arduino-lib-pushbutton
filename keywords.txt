@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For CFPushButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CFPushButton	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getState 	KEYWORD2
+isPulledUp 	KEYWORD2
+setPulledUp 	KEYWORD2
+setPulledDown 	KEYWORD2
+getShortPressTime 	KEYWORD2
+setShortPressTime 	KEYWORD2
+getLongPressTime 	KEYWORD2
+setLongPressTime 	KEYWORD2
+setOnShortPressReachedCallback 	KEYWORD2
+setOnLongPressReachedCallback 	KEYWORD2
+setOnPressCallback 	KEYWORD2
+setOnShortPressCallback 	KEYWORD2
+setOnLongPressCallback 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
